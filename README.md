@@ -73,11 +73,7 @@ These projects were completed to deepen my understanding of machine learning con
 ---
 
 ## Contact
-
-Feel free to reach out or explore my other work:
-- GitHub: [YiMingChangJ](https://github.com/YiMingChangJ)
-- *(Add email or LinkedIn if desired.)*
-
+Email: jerrychangyiming@gmail.com
 ---
 
 *© 2025 YiMing Chang*
