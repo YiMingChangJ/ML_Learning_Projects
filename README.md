@@ -40,7 +40,7 @@ Below is a summary of the key assignments and problem sets included in this repo
 
 ---
 
-## Repository Structure
+## Structure
 
 - **`linear_logistic_regression/`**: Code and notebooks for regression projects.
 - **`classification/`**: Classification model implementations.
