@@ -49,7 +49,6 @@ Below is a summary of the key assignments and problem sets included in this repo
 - **`dnn/`**: Deep neural network projects.
 - **`cnn_mnist/`**: CNN for MNIST digit classification.
 - **`cnn_bird_classification/`**: Transfer learning for bird species classification.
-- *(Adjust folder names based on your actual structure.)*
 
 ---
 
